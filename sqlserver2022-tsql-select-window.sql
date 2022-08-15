@@ -1,6 +1,6 @@
 ﻿/*
 	SQL Server 2022 
-	- funkcja SELECT... WINDOW
+	- SELECT... WINDOW
 	
 	libera@kursysql.pl
 	https://www.kursysql.pl
