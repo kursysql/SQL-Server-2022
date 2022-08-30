@@ -11,9 +11,11 @@ This repository contains demo files for SQL Server 2022
 - <a href="https://www.youtube.com/watch?v=Uamf_FknWJ8&list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv&index=4">**TSQL - Funkcja STRING_SPLIT**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-datetrunc.sql">sqlserver2022-tsql-datetrunc.sql</a>
 - <a href="https://www.youtube.com/watch?v=cu-c2TKncHY&list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv&index=5">**TSQL - Funkcja DATETRUNC**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-datetrunc.sql">sqlserver2022-tsql-datetrunc.sql</a>
 - <a href="https://www.youtube.com/watch?v=txeojBl6Pg8&list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv&index=6">**TSQL - Funkcje GREATEST i LEAST**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-greatest-least.sql">sqlserver2022-tsql-greatest-least.sql</a>
-- <a href="https://youtube.com/playlist?list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv">**TSQL - SELECT... WINDOW**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-select-window.sql">sqlserver2022-tsql-select-window.sql</a>
-- **TSQL - Funkcja GENERATE_SERIES** (22.08.2022) - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-generate-series.sql">sqlserver2022-tsql-generate-series.sql</a>
-
+- <a href="https://www.youtube.com/watch?v=txeojBl6Pg8&list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv&index=7)">**TSQL - SELECT... WINDOW**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-select-window.sql">sqlserver2022-tsql-select-window.sql</a>
+- <a href="https://www.youtube.com/watch?v=txeojBl6Pg8&list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv&index=8)">**TSQL - Funkcja GENERATE_SERIES**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-generate-series.sql">sqlserver2022-tsql-generate-series.sql</a>
+- <a href="https://www.youtube.com/watch?v=txeojBl6Pg8&list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv&index=9)">**TSQL - Funkcja DATE_BUCKET**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-date-bucket.sql">sqlserver2022-tsql-date-bucket.sql</a>
+- <a href="https://www.youtube.com/watch?v=txeojBl6Pg8&list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv&index=10)">**Uprawnienia - Dynamic Data Masking - UNMASK**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-ddm-unmask.sql">sqlserver2022-ddm-unmask.sql</a>
+- <a href="https://www.youtube.com/watch?v=txeojBl6Pg8&list=PLLbGIlLHMPz2A6hOUMCiWI4I7tAaFyTpv&index=11)">**TSQL - Funkcja TRIM**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-trim.sql">sqlserver2022-tsql-trim.sql</a>
 
 
 
