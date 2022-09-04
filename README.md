@@ -15,7 +15,8 @@ This repository contains demo files for SQL Server 2022
 - <a href="https://youtu.be/Df3QeECI_yM">**TSQL - Funkcja GENERATE_SERIES**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-generate-series.sql">sqlserver2022-tsql-generate-series.sql</a>
 - <a href="https://youtu.be/GpU0DdAykKU">**TSQL - Funkcja DATE_BUCKET**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-date-bucket.sql">sqlserver2022-tsql-date-bucket.sql</a>
 - <a href="https://youtu.be/WcyR90h-8ks">**Uprawnienia - Dynamic Data Masking - UNMASK**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-ddm-unmask.sql">sqlserver2022-ddm-unmask.sql</a>
-- <a href="https://youtu.be/RtsJEkoWtkA)">**TSQL - Funkcja TRIM**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-trim.sql">sqlserver2022-tsql-trim.sql</a>
+- <a href="https://youtu.be/RtsJEkoWtkA">**TSQL - Funkcja TRIM**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-tsql-trim.sql">sqlserver2022-tsql-trim.sql</a>
+- <a href="https://youtu.be/7uer2mVTUSA">**Ledger**</a> - <a href="https://github.com/kursysql/SQL-Server-2022/blob/main/sqlserver2022-security-ledger.sql">sqlserver2022-security-ledger.sql</a>
 
 
 
