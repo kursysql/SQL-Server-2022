@@ -1,6 +1,7 @@
 ﻿/*
 	SQL Server 2022 
-	SQL Ledger
+	
+	SQL Ledger : Updatable table, system views
 	
 	libera@kursysql.pl
 	https://www.kursysql.pl

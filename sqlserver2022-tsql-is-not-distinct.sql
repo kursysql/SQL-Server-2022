@@ -41,7 +41,7 @@ SELECT ColA, ColB, 'ColA IS DISTINCT FROM ColB' FROM #testsql2022 WHERE ColA IS 
 /*
 	Porównywanie do wartości nieokreślonej (NULL)
 */
--- =/ <> ULL	porównanie do wartości nieokreślonej, zawsze daje w wyniku zbiór pusty
+-- =/ <> NULL	porównanie do wartości nieokreślonej, zawsze daje w wyniku zbiór pusty
 SELECT * FROM #testsql2022
 SELECT ColA, ColB, 'ColA = NULL' FROM #testsql2022 WHERE ColA = NULL
 SELECT ColA, ColB, 'ColA <> NULL' FROM #testsql2022 WHERE ColA <> NULL
